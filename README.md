@@ -3,7 +3,7 @@
 Hi there! I'm a passionate and detail-oriented Junior Data Analyst with a strong foundation in data analysis, visualization, and database management. I am excited to translate complex data into actionable insights that drive business decisions. My goal is to continuously grow my skills in data analytics, working on real-world projects that solve meaningful problems.
 
 ## My Skills
-- **Data Analysis:** Proficient in Python, R, SQL, and spreadsheets for data manipulation, cleaning, and analysis.
+- **Data Analysis:** Proficient in SQL, Spreadsheets, R, and Python for data manipulation, cleaning, and analysis.
 - **Data Visualization:** Experienced with Tableau, Matplotlib, and Seaborn for creating compelling visual narratives.
 - **Database Management:** Strong understanding of database schemas, SQL queries, and data integration.
 - **Tools:** Familiar with Apache Spark for large-scale data processing and analysis.
